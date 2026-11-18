@@ -1,0 +1,7 @@
+# Supabase Project Configuration
+# Disables API Gateway JWT pre-check ONLY for create-officer because the
+# function validates the caller's Bearer JWT + Super Admin status directly via
+# Supabase Auth API (supporting both legacy HS256 and new ES256/sb_publishable keys).
+
+[functions.create-officer]
+verify_jwt = false

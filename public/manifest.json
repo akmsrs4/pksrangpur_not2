@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "পাটগ্রাম কল্যাণ সমিতি",
+  "short_name": "পাটগ্রাম সমিতি",
+  "description": "পাটগ্রাম কল্যাণ সমিতি, রংপুর (স্থাপিত: ২০০০) — রংপুরে বসবাসরত পাটগ্রামবাসীর ঐক্য, ছাত্র কল্যাণ, শিক্ষা বৃত্তি ও মানবিক সেবার কেন্দ্রীয় ডিজিটাল পোর্টাল।",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#14532d",
+  "categories": ["social", "community", "productivity"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

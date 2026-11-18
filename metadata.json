@@ -1,0 +1,6 @@
+{
+  "name": "পাটগ্রাম কল্যাণ সমিতি, রংপুর",
+  "description": "পাটগ্রাম কল্যাণ সমিতি, রংপুর (স্থাপিত: ২০০০) — রংপুরে বসবাসরত পাটগ্রামবাসীর ঐক্য, ছাত্র কল্যাণ, শিক্ষা বৃত্তি ও মানবিক সেবার কেন্দ্রীয় ডিজিটাল পোর্টাল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

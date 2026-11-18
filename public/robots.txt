@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://patgram.pages.dev/sitemap.xml
